@@ -67,4 +67,3 @@ curve(f, add = TRUE, col = "red")
 \code{\link{dchisq}}; these functions just wrap the 
   (d/p/q/r)chisq functions.
 }
-

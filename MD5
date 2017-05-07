@@ -1,8 +1,12 @@
-5bafdffbc8c02bbd1d78fecf503fc71e *DESCRIPTION
+67e3023f2abfff1ccc9aa44d18e379d7 *DESCRIPTION
 0f1d89a11edb082cbbff1cad959e0d0e *NAMESPACE
-64dd9279decb9b6fdc18d5897ca68004 *NEWS
+6751e459783bc7958e362d3801f5bc98 *NEWS
 812dab385caccb2eeaf1cd34f74cc74d *R/chi.R
 b913be278b4719e3b39d00021af43bba *R/invchi.R
-0d36e52bd25f9dcb5b9940d941b02751 *README.md
-779f7a45953cc0b79065c118f3ba02f1 *man/chi.Rd
-6709997e5f4e5e22ced523e48e1fd0c1 *man/invchi.Rd
+2073ebc75d8eb1a51a35678cd2ea1ac8 *README.md
+715d35198b13aca8f5083dd21c37692a *man/chi.Rd
+be253434e37d70c9512f5ce95227babd *man/invchi.Rd
+c4c8b348f36d9359f2f2bbd788020351 *tools/README-unnamed-chunk-3-1.png
+2bdfb0720e9d8261e019c573494f1211 *tools/README-unnamed-chunk-4-1.png
+54059e5542465181ee573979949aa03e *tools/README-unnamed-chunk-8-1.png
+01ece549a4e45094287df1aeb357cc6e *tools/README-unnamed-chunk-9-1.png
